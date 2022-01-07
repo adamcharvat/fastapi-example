@@ -1,6 +1,6 @@
 # fastapi-example
 
-## Deploy on Northflank
+## Deploy on Northflank
 
 1. Create a new service
 2. Select 'combined' as service type
